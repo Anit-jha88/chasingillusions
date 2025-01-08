@@ -265,8 +265,8 @@
         }
     });
 
-    // Preloader Area
-	$(window).on('load', function() {
+    // Preloader Area same as
+	$(window).on('load', function() {  
 		$('.preloader').addClass('preloader-deactivate');
 	});
 

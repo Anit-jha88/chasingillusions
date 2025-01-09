@@ -1,4 +1,4 @@
-(function($){  //anit
+(function($){  
 	"use strict";
 	jQuery(document).on('ready', function () {
 
